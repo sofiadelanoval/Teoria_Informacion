@@ -13,4 +13,5 @@ Repositorio de tareas para la clase de Teoría de la Información.
 
 -----
 
-Proyecto será un OSINT.
+1. Proyecto será un OSINT.
+2. Participar en https://hacktoberfest.com/
